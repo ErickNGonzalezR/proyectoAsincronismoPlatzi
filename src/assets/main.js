@@ -56,4 +56,7 @@ async function fetchData (urlApi){
   "scripts": {
     "deploy": "gh-pages -d src"
   },
+
+
+  npm run deploy
 */
